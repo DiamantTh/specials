@@ -24,6 +24,10 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4
 
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5
+
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6
+
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
@@ -89,6 +93,10 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4
+
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5
+
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling
 
@@ -172,10 +180,6 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-A
 
 https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 
-# Coinmining / Cryptojacking
-
-https://zerodot1.gitlab.io/CoinBlockerLists/hosts
-
 # Diverse
 
 https://dbl.oisd.nl/
@@ -194,6 +198,9 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
 
 https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
 #(Phishing, Malvertising, Malware, Spyware, Ransomware, CryptoJacking)
+
+https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts
+#(great german fakenews company)
 
 # Einzelne Dienste sperren
 
